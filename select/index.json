@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マ人間",
+  "base_artist": "新しい学校のリーダーズ",
+  "createdAt": "2026-02-07T22:45:04.221118Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マ人間",
+      "artist": "新しい学校のリーダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_マ人間_新しい学校のリーダーズ.txt"
+    }
+  ]
+}
